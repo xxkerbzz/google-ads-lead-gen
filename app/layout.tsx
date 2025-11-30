@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://yourdomain.com",
+    url: "https://xxkerbzz.github.io/google-ads-lead-gen",
     siteName: "Google Ads Lead Gen",
     title: "Google Ads Local Lead Generation Service | Qualified Leads That Book Jobs",
     description: "Stop wasting ad spend on clicks that don't convert. Get qualified local leads that actually book jobs.",
