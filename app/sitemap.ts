@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://yourdomain.com';
+  const baseUrl = 'https://xxkerbzz.github.io/google-ads-lead-gen';
   const currentDate = new Date().toISOString();
 
   return [
