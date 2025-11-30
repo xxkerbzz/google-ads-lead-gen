@@ -1,6 +1,6 @@
 import { SEOData } from '../types/seo';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://yourdomain.com';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://xxkerbzz.github.io/google-ads-lead-gen';
 const siteName = 'Google Ads Local Lead Generation';
 
 export function generateCanonicalUrl(path: string): string {

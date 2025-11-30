@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://xxkerbzz.github.io/google-ads-lead-gen/sitemap.xml
 
